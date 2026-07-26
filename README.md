@@ -2,11 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/main/assets/banner.svg" width="100%"/>
 
-</div>
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=820&lines=Building+AI-Powered+Security+Systems;Full-Stack+%2B+Applied+Machine+Learning;Turning+Research+into+Production+Software;Final+Year+B.Tech+CSE+%40+VIT+Bhopal" alt="Typing SVG" />
-
 <br/>
 
 ![VIT Bhopal](https://img.shields.io/badge/VIT_Bhopal-Class_of_2027-9333EA?style=for-the-badge&labelColor=1E1033)
@@ -23,7 +18,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishmeeeeet04&color=9333EA&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/ishmeeeeet04?color=C026D3&style=for-the-badge&label=FOLLOWERS&labelColor=1E1033)
-![Stars](https://img.shields.io/github/stars/ishmeeeeet04?color=D8B4FE&style=for-the-badge&label=STARS&labelColor=1E1033)
+![Stars](https://img.shields.io/github/stars/ishmeeeeet04?color=A78BFA&style=for-the-badge&label=STARS&labelColor=1E1033)
 
 </div>
 
