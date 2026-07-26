@@ -8,6 +8,6 @@
   </defs>
   <rect width="900" height="120" fill="url(#fbg)"/>
   <text x="450" y="65" font-family="JetBrains Mono, monospace" font-size="16" fill="#F5F3FF" text-anchor="middle">
-    <tspan fill="#C084FC">$</tspan> echo "Thanks for visiting — let's build something secure."
+    <tspan fill="#C084FC"></tspan>"Thanks for visiting — let's build something secure."
   </text>
 </svg>
