@@ -281,6 +281,6 @@ open_to:
 
 *"Secure systems aren't built by accident — they're engineered, tested, and proven."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,50:6D28D9,100:0D0221&height=150&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/main/assets/footer.svg" width="100%"/>
 
 </div>
