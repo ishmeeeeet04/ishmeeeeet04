@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6A3093&height=280&section=header&text=Ishmeet%20Singh&fontSize=60&fontColor=E0D7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Cybersecurity%20%26%20Digital%20Forensics&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:3B0764,50:6D28D9,75:9333EA,100:C026D3&height=300&section=header&text=ISHMEET%20KAUR&fontSize=70&fontColor=F5F3FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20AI%2FML%20Engineer%20•%20Cybersecurity%20%26%20Digital%20Forensics&descAlignY=55&descSize=19&descColor=D8B4FE" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+AI-Powered+Security+Systems;Full-Stack+%2B+Applied+Machine+Learning;Turning+Research+into+Production+Software;Final+Year+B.Tech+CSE+%40+VIT+Bhopal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=820&lines=Building+AI-Powered+Security+Systems;Full-Stack+%2B+Applied+Machine+Learning;Turning+Research+into+Production+Software;Final+Year+B.Tech+CSE+%40+VIT+Bhopal" alt="Typing SVG" />
 
 <br/>
 
-![VIT Bhopal](https://img.shields.io/badge/VIT_Bhopal-Class_of_2027-6D28D9?style=flat-square&labelColor=0F0C29)
-![Cybersecurity](https://img.shields.io/badge/Specialization-Cybersecurity_%26_Digital_Forensics-7C3AED?style=flat-square&labelColor=0F0C29)
-![Location](https://img.shields.io/badge/📍-Bhopal,_India-5B21B6?style=flat-square&labelColor=0F0C29)
+![VIT Bhopal](https://img.shields.io/badge/VIT_Bhopal-Class_of_2027-9333EA?style=for-the-badge&labelColor=1E1033)
+![Cybersecurity](https://img.shields.io/badge/Specialization-Cybersecurity_%26_Digital_Forensics-C026D3?style=for-the-badge&labelColor=1E1033)
+![Location](https://img.shields.io/badge/📍-Bhopal,_India-A855F7?style=for-the-badge&labelColor=1E1033)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmeet-kaur-ba2446287/)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishiikaur004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishmeeeeet04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmeet-kaur-ba2446287/)
+[![Email](https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishiikaur004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-C026D3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishmeeeeet04)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ishmeeeeet04&color=6D28D9&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/ishmeeeeet04?color=7C3AED&style=flat-square&label=FOLLOWERS&labelColor=0F0C29)
-![Stars](https://img.shields.io/github/stars/ishmeeeeet04?color=A78BFA&style=flat-square&label=STARS&labelColor=0F0C29)
+![Profile Views](https://komarev.com/ghpvc/?username=ishmeeeeet04&color=9333EA&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ishmeeeeet04?color=C026D3&style=for-the-badge&label=FOLLOWERS&labelColor=1E1033)
+![Stars](https://img.shields.io/github/stars/ishmeeeeet04?color=D8B4FE&style=for-the-badge&label=STARS&labelColor=1E1033)
 
 </div>
 
@@ -82,19 +82,17 @@ I lead technical content at **IEEE Student Branch** and previously led events at
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Applied Machine Learning** | ⬛⬛⬛⬛⬜ | Random Forest, Isolation Forest, Logistic Regression, TF-IDF, SHAP explainability |
-| **LLM Systems & RAG** | ⬛⬛⬛⬛⬜ | LangChain/LangGraph, ChromaDB, Google Gemini, retrieval-augmented incident reporting |
-| **AI Security** | ⬛⬛⬛⬛⬛ | Prompt injection detection, sensitive data exfiltration prevention, LLM security gateways |
-| **Anomaly & Threat Detection** | ⬛⬛⬛⬛⬜ | MITRE ATT&CK mapping, network log analysis, false-positive reduction pipelines |
-| **Explainable AI** | ⬛⬛⬛⬜⬜ | SHAP-based model interpretability for security-critical decisions |
+| **Applied Machine Learning** | 🟪🟪🟪🟪⬜ | Random Forest, Isolation Forest, Logistic Regression, TF-IDF, SHAP explainability |
+| **LLM Systems & RAG** | 🟪🟪🟪🟪⬜ | LangChain/LangGraph, ChromaDB, Google Gemini, retrieval-augmented incident reporting |
+| **AI Security** | 🟪🟪🟪🟪🟪 | Prompt injection detection, sensitive data exfiltration prevention, LLM security gateways |
+| **Anomaly & Threat Detection** | 🟪🟪🟪🟪⬜ | MITRE ATT&CK mapping, network log analysis, false-positive reduction pipelines |
+| **Explainable AI** | 🟪🟪🟪⬜⬜ | SHAP-based model interpretability for security-critical decisions |
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## ⟢ Featured Projects
-
-
 
 <details>
 <summary><b>🤖 AI-Powered Autonomous SOC Analyst</b></summary>
@@ -153,8 +151,6 @@ Validated against realistic contamination scenarios to surface and fix recall co
 
 </details>
 
-
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## ⟢ Experience
@@ -201,16 +197,14 @@ Organized and led security-focused events, workshops, and awareness initiatives 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-
-
 ## ⟢ Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ishmeeeeet04)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ishmeeeeet04)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ishmeeeeet04)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4C1D95?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ishmeeeeet04)
+[![LeetCode](https://img.shields.io/badge/LeetCode-9333EA?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ishmeeeeet04)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-A855F7?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ishmeeeeet04)
+[![HackerRank](https://img.shields.io/badge/HackerRank-C026D3?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ishmeeeeet04)
+[![CodeChef](https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ishmeeeeet04)
 
 </div>
 
@@ -220,24 +214,22 @@ Organized and led security-focused events, workshops, and awareness initiatives 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishmeeeeet04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=7C3AED&text_color=E0D7FF&border_radius=12" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=ishmeeeeet04&theme=tokyonight&hide_border=true&background=0F0C29&ring=7C3AED&fire=A78BFA&currStreakLabel=E0D7FF&border_radius=12" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ishmeeeeet04&show_icons=true&theme=radical&hide_border=true&bg_color=1E1033&title_color=D8B4FE&icon_color=C026D3&text_color=F5F3FF&border_radius=12" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=ishmeeeeet04&theme=radical&hide_border=true&background=1E1033&ring=C026D3&fire=D8B4FE&currStreakLabel=F5F3FF&border_radius=12" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmeeeeet04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A78BFA&text_color=E0D7FF&border_radius=12" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmeeeeet04&layout=compact&theme=radical&hide_border=true&bg_color=1E1033&title_color=D8B4FE&text_color=F5F3FF&border_radius=12" width="48%"/>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-
-
 ## ⟢ Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishmeeeeet04&theme=tokyo-night&bg_color=0F0C29&color=A78BFA&line=7C3AED&point=E0D7FF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishmeeeeet04&theme=react-dark&bg_color=1E1033&color=D8B4FE&line=C026D3&point=F5F3FF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -281,10 +273,9 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-ishiikaur004@gmail.com-6D28D9?style=flat-square&logo=gmail&logoColor=white)](mailto:ishiikaur004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Ishmeet_Kaur-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmeet-kaur-ba2446287/)
-[![GitHub](https://img.shields.io/badge/-ishmeeeeet04-5B21B6?style=flat-square&logo=github&logoColor=white)](https://github.com/ishmeeeeet04)
-
+[![Gmail](https://img.shields.io/badge/-ishiikaur004@gmail.com-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishiikaur004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Ishmeet_Kaur-C026D3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmeet-kaur-ba2446287/)
+[![GitHub](https://img.shields.io/badge/-ishmeeeeet04-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishmeeeeet04)
 
 </div>
 
@@ -294,6 +285,6 @@ open_to:
 
 *"Secure systems aren't built by accident — they're engineered, tested, and proven."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A3093,50:302B63,100:0F0C29&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,50:6D28D9,100:0D0221&height=150&section=footer" width="100%"/>
 
 </div>
