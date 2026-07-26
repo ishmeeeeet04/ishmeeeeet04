@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:3B0764,50:6D28D9,75:9333EA,100:C026D3&height=300&section=header&text=ISHMEET%20KAUR&fontSize=70&fontColor=F5F3FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20AI%2FML%20Engineer%20•%20Cybersecurity%20%26%20Digital%20Forensics&descAlignY=55&descSize=19&descColor=D8B4FE" width="100%"/>
+<img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/main/assets/banner.svg" width="100%"/>
 
+</div>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=820&lines=Building+AI-Powered+Security+Systems;Full-Stack+%2B+Applied+Machine+Learning;Turning+Research+into+Production+Software;Final+Year+B.Tech+CSE+%40+VIT+Bhopal" alt="Typing SVG" />
