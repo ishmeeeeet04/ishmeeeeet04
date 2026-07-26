@@ -28,7 +28,7 @@
   <g font-family="JetBrains Mono, Consolas, monospace">
     <text x="48" y="115" font-size="20" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.4s" fill="freeze"/>
-      <tspan font-size="20" fill="#C084FC">$</tspan><tspan font-size="20" fill="#E9D5FF"></tspan>
+      <tspan font-size="20" fill="#C084FC"></tspan><tspan font-size="20" fill="#E9D5FF"></tspan>
     </text>
     <text x="48" y="150" font-size="22" font-weight="bold" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1s" dur="0.5s" fill="freeze"/>
