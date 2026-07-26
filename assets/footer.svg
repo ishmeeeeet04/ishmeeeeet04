@@ -1,0 +1,13 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0221"/>
+      <stop offset="50%" stop-color="#6D28D9"/>
+      <stop offset="100%" stop-color="#C026D3"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="url(#fbg)"/>
+  <text x="450" y="65" font-family="JetBrains Mono, monospace" font-size="16" fill="#F5F3FF" text-anchor="middle">
+    <tspan fill="#C084FC">$</tspan> echo "Thanks for visiting — let's build something secure."
+  </text>
+</svg>
