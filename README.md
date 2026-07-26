@@ -94,24 +94,7 @@ I lead technical content at **IEEE Student Branch** and previously led events at
 
 ## ⟢ Featured Projects
 
-<details>
-<summary><b>🛡️ SentraGuard — AI/LLM Security Gateway</b></summary>
-<br/>
 
-Real-time security gateway for enterprise LLM applications, detecting prompt injection attempts and preventing sensitive data exfiltration before they reach production models.
-
-| Category | Detail |
-|---|---|
-| **Stack** | FastAPI, React/Next.js, PostgreSQL, Redis, Docker, LangChain/LangGraph, FAISS/ChromaDB, JWT + RBAC |
-| **Scale** | Full-stack capstone system built module-by-module across a 6-month plan |
-| **Performance** | Redis-backed low-latency inline inspection layer |
-| **Security** | JWT authentication, Role-Based Access Control, isolated inference boundary |
-| **Impact** | Final-year capstone engineered as a real, deployable enterprise security product |
-| **Repository** | [github.com/ishmeeeeet04/sentraguard](https://github.com/ishmeeeeet04) |
-
-Designed as a production-grade alternative to conventional academic projects — built to demonstrate enterprise LLM risk mitigation to security-focused engineering teams.
-
-</details>
 
 <details>
 <summary><b>🤖 AI-Powered Autonomous SOC Analyst</b></summary>
@@ -170,24 +153,7 @@ Validated against realistic contamination scenarios to surface and fix recall co
 
 </details>
 
-<details>
-<summary><b>🏢 Eco-Loop — Closed-Loop Building Energy Agent</b></summary>
-<br/>
 
-Agentic AI proof-of-concept for autonomous smart-building energy control, built for a competitive Building Agents hackathon.
-
-| Category | Detail |
-|---|---|
-| **Stack** | EnergyPlus simulation engine, open-source LLM (Llama 3 / Mistral / Qwen), MCP-based agentic tools |
-| **Scale** | Full closed-loop simulation-to-control pipeline with live savings dashboard |
-| **Performance** | Evaluated on energy efficiency and thermal comfort constraints |
-| **Security** | Self-hosted LLM inference, no external data exposure |
-| **Impact** | Scored across system integration, agentic autonomy, and code elegance criteria |
-| **Repository** | [github.com/ishmeeeeet04](https://github.com/ishmeeeeet04) |
-
-Combines physics-based building simulation with local LLM agents for real-time, explainable HVAC optimization.
-
-</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -235,25 +201,7 @@ Organized and led security-focused events, workshops, and awareness initiatives 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ⟢ Certifications
 
-**AWS**
-
-![AWS Certified](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle_Certified_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL_Certification-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco_Certified_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## ⟢ Coding Profiles
 
@@ -283,15 +231,7 @@ Organized and led security-focused events, workshops, and awareness initiatives 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## ⟢ GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ishmeeeeet04&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## ⟢ Contribution Activity
 
@@ -341,8 +281,8 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-your.email@gmail.com-6D28D9?style=flat-square&logo=gmail&logoColor=white)](mailto:ishiikaur004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Ishmeet_Singh-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmeet-kaur-ba2446287/)
+[![Gmail](https://img.shields.io/badge/-ishiikaur004@gmail.com-6D28D9?style=flat-square&logo=gmail&logoColor=white)](mailto:ishiikaur004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Ishmeet_Kaur-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmeet-kaur-ba2446287/)
 [![GitHub](https://img.shields.io/badge/-ishmeeeeet04-5B21B6?style=flat-square&logo=github&logoColor=white)](https://github.com/ishmeeeeet04)
 
 
