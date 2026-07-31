@@ -1,27 +1,28 @@
-name: Aurora Contribution Snake
+name: Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Generate aurora-themed snake
+      - name: Generate snake grid animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-aurora.svg?color_snake=%23F5F3FF&color_dots=%230A0E27,%233B2E7E,%236D28D9,%238B5CF6,%2322D3EE&color_animation=%23EC4899
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
 
-      - name: Push generated files to the output branch
+      - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
