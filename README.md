@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:B026FF,45:FF2E97,75:00F0FF,100:39FF14&height=220&section=header&text=ISHMEET%20KAUR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Breaking%20things%20on%20purpose%2C%20so%20they%20don't%20break%20in%20production&descAlignY=58&descSize=17&descColor=E6E6E6" width="100%"/>
+<img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/main/assets/banner.svg" width="100%"/>
 
 <a href="https://github.com/ishmeeeeet04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Breaking+into+systems+so+attackers+can't+%3A%29;Training+models+that+explain+their+own+decisions;final-year+CSE+%40+VIT+Bhopal+%7C+Cybersecurity+%2B+AI;Currently+shipping%3A+SentraGuard+%E2%80%94+LLM+Security+Gateway" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=B026FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=70&lines=Breaking+into+systems+so+attackers+can't+%3A%29;Training+models+that+explain+their+own+decisions;Currently+shipping%3A+SentraGuard+%E2%80%94+LLM+Security+Gateway" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,12 +31,16 @@
 
 ## ⟡ About Me
 
+<img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/main/assets/terminal-header.svg" width="100%"/>
+
 ```yaml
-whoami: Ishmeet Kaur
-role: Final-Year B.Tech CSE @ VIT Bhopal
-track: Cybersecurity & Digital Forensics
-obsession: "Building AI systems that are intelligent AND defensible"
-philosophy: "Secure systems aren't built by accident — they're engineered, tested, proven."
+name       : Ishmeet Kaur
+location   : Bhopal, India 🇮🇳
+university : VIT Bhopal — B.Tech CSE
+track      : Cybersecurity & Digital Forensics
+role       : AI/ML Engineer · Security Researcher
+focus      : Applied ML · AI Security · Full-Stack Product Engineering
+philosophy : "Secure systems aren't built by accident — they're engineered, tested, proven."
 ```
 
 - 🛡️ I build systems at the intersection of **AI/ML, security engineering, and full-stack product dev** — from anomaly-based threat detectors to LLM security gateways.
@@ -149,19 +153,48 @@ AI/LLM Security Gateway — detecting and blocking prompt injection and sensitiv
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B026FF,50:00F0FF,100:39FF14&height=3&width=100%"/>
 
-## ⟡ Achievements
+## ⟡ Achievements at a Glance
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="25%">
+
+🏅 **Amazon ML School**
+<br/><sub>2026 · Top 2% of 3,000+</sub>
+
+</td>
+<td align="center" width="25%">
+
+📄 **Research Papers**
+<br/><sub>3× Published, IEEE Xplore</sub>
+
+</td>
+<td align="center" width="25%">
+
+🛡️ **OWASP Club**
+<br/><sub>Event Lead</sub>
+
+</td>
+<td align="center" width="25%">
+
+⚙️ **IEEE Branch**
+<br/><sub>Content Lead</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 | 🏆 | Achievement |
 |:---:|---|
-| 🥇 | **Amazon ML Summer School 2026** — selected from 3,000+ applicants (~2% selection rate) |
+| 🥇 | **Amazon ML Summer School 2026** — selected from 3,000+ applicants nationwide (~2% selection rate) |
 | 📄 | **3× Published IEEE Research Papers** — malware detection, privacy-preserving TinyML, biomedical network coding |
 | 🛡️ | **OWASP Student Club, VIT Bhopal** — Event Lead |
 | ⚙️ | **IEEE Student Branch, VIT Bhopal** — Content Lead |
 | 🚀 | **Multiple production-deployed AI/security systems**, benchmark-validated and CI-tested |
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:39FF14,100:B026FF&height=3&width=100%"/>
 
@@ -169,10 +202,12 @@ AI/LLM Security Gateway — detecting and blocking prompt injection and sensitiv
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishmeeeeet04&theme=react-dark&bg_color=00000000&color=00F0FF&line=B026FF&point=FF2E97&area=true&area_color=B026FF&hide_border=true" width="100%"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=ishmeeeeet04&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=FF2E97&text_color=E6E6E6&ring_color=B026FF" width="49%"/>
 <img src="https://streak-stats.demolab.com?user=ishmeeeeet04&theme=dark&hide_border=true&background=00000000&ring=B026FF&fire=FF2E97&currStreakLabel=00F0FF&sideLabels=E6E6E6&sideNums=E6E6E6&dates=8B8B9A" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmeeeeet04&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=E6E6E6&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmeeeeet04&layout=donut&theme=transparent&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=E6E6E6&langs_count=8" width="49%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=ishmeeeeet04&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" width="49%"/>
 
 </div>
