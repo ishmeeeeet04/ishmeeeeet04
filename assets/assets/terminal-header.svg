@@ -1,0 +1,14 @@
+<svg width="800" height="42" viewBox="0 0 800 42" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#12121C"/>
+      <stop offset="100%" stop-color="#191320"/>
+    </linearGradient>
+  </defs>
+  <path d="M8,0 H792 A8,8 0 0 1 800,8 V42 H0 V8 A8,8 0 0 1 8,0 Z" fill="url(#bar)"/>
+  <rect x="0" y="40" width="800" height="2" fill="#B026FF" opacity="0.5"/>
+  <circle cx="24" cy="21" r="6.5" fill="#FF2E97"/>
+  <circle cx="46" cy="21" r="6.5" fill="#00F0FF"/>
+  <circle cx="68" cy="21" r="6.5" fill="#39FF14"/>
+  <text x="400" y="26" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#8B8B9A">about-me.sh — ishmeet@vitbhopal</text>
+</svg>
