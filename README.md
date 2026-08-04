@@ -216,7 +216,7 @@ AI/LLM Security Gateway — detecting and blocking prompt injection and sensitiv
 <img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
-
+> ⚠️ Requires the `.github/workflows/3d-contrib.yml` action (included in this package) to be added to your `ishmeeeeet04/ishmeeeeet04` repo — see setup notes below.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B026FF,50:FF2E97,100:00F0FF&height=3&width=100%"/>
 
