@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/main/assets/banner.svg" width="100%"/>
 
 <a href="https://github.com/ishmeeeeet04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=B026FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=70&lines=Breaking+into+systems+so+attackers+can't+%3A%29;Training+models+that+explain+their+own+decisions"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=B026FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=70&lines=Breaking+into+systems+so+attackers+can't+%3A%29;Training+models+that+explain+their+own+decisions."/>
 </a>
 
 <br/>
@@ -217,7 +217,7 @@ AI/LLM Security Gateway — detecting and blocking prompt injection and sensitiv
 ## ⟡ 3D Contribution Calendar
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
 > ⚠️ Requires the `.github/workflows/3d-contrib.yml` action (included in this package) to be added to your `ishmeeeeet04/ishmeeeeet04` repo — see setup notes below.
