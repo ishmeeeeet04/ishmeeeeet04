@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/main/assets/banner.svg" width="100%"/>
 
 <a href="https://github.com/ishmeeeeet04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=B026FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=70&lines=Breaking+into+systems+so+attackers+can't+%3A%29;Training+models+that+explain+their+own+decisions;"Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=B026FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=70&lines=Breaking+into+systems+so+attackers+can't+%3A%29;Training+models+that+explain+their+own+decisions;Currently+shipping%3A+SentraGuard+%E2%80%94+LLM+Security+Gateway" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -203,13 +203,17 @@ AI/LLM Security Gateway — detecting and blocking prompt injection and sensitiv
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishmeeeeet04&theme=react-dark&bg_color=00000000&color=00F0FF&line=B026FF&point=FF2E97&area=true&area_color=B026FF&hide_border=true" width="100%"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=ishmeeeeet04&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=FF2E97&text_color=E6E6E6&ring_color=B026FF" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=ishmeeeeet04&theme=dark&hide_border=true&background=00000000&ring=B026FF&fire=FF2E97&currStreakLabel=00F0FF&sideLabels=E6E6E6&sideNums=E6E6E6&dates=8B8B9A" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=ishmeeeeet04&theme=dark&hide_border=true&background=00000000&ring=B026FF&fire=FF2E97&currStreakLabel=00F0FF&sideLabels=E6E6E6&sideNums=E6E6E6&dates=8B8B9A&cache_seconds=1800&r=2" width="49%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmeeeeet04&layout=donut&theme=transparent&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=E6E6E6&langs_count=8" width="49%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=ishmeeeeet04&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" width="49%"/>
 
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:FF2E97&height=3&width=100%"/>
+
 ## ⟡ 3D Contribution Calendar
 
 <div align="center">
