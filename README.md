@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/main/assets/banner.svg" width="100%"/>
 
 <a href="https://github.com/ishmeeeeet04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=B026FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=70&lines=Breaking+into+systems+so+attackers+can't+%3A%29;Training+models+that+explain+their+own+decisions;Currently+shipping%3A+SentraGuard+%E2%80%94+LLM+Security+Gateway" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=B026FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=70&lines=Breaking+into+systems+so+attackers+can't+%3A%29;Training+models+that+explain+their+own+decisions;/>
 </a>
 
 <br/>
