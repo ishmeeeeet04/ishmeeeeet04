@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="100%" height="100%">
+  <defs>
+    <!-- Dark background gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050014" />
+      <stop offset="50%" stop-color="#090B1E" />
+      <stop offset="100%" stop-color="#050014" />
+    </linearGradient>
+
+    <!-- Neon title gradient -->
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" />
+      <stop offset="50%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#A3FF12" />
+    </linearGradient>
+
+    <!-- Glowing cyan gradient -->
+    <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Cyber grid pattern -->
+    <pattern id="cyber-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.08" />
+      <circle cx="30" cy="30" r="1" fill="#00D9FF" fill-opacity="0.2" />
+    </pattern>
+
+    <!-- Circuit trace pattern -->
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#3B82F6" fill-opacity="0.15" />
+    </pattern>
+  </defs>
+
+  <style>
+    .title { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 900; font-size: 42px; letter-spacing: 4px; }
+    .subtitle { font-family: 'Cascadia Code', 'Fira Code', 'Consolas', monospace; font-size: 15px; letter-spacing: 3px; fill: #00D9FF; font-weight: 600; }
+    .terminal-text { font-family: 'Cascadia Code', 'Fira Code', 'Consolas', monospace; font-size: 13px; fill: #A3FF12; }
+    .hud-label { font-family: 'Cascadia Code', 'Consolas', monospace; font-size: 11px; fill: #8B5CF6; letter-spacing: 1.5px; }
+    .status-badge { font-family: 'Segoe UI', sans-serif; font-size: 11px; font-weight: 700; letter-spacing: 1px; }
+
+    @keyframes pulse {
+      0% { opacity: 0.3; }
+      50% { opacity: 0.9; }
+      100% { opacity: 0.3; }
+    }
+    @keyframes scan {
+      0% { transform: translateY(0px); opacity: 0; }
+      50% { opacity: 0.4; }
+      100% { transform: translateY(310px); opacity: 0; }
+    }
+    .pulsing { animation: pulse 3s infinite ease-in-out; }
+    .scan-line { animation: scan 6s infinite linear; }
+  </style>
+
+  <!-- Main Background -->
+  <rect width="900" height="320" rx="12" fill="url(#bg-grad)" stroke="#8B5CF6" stroke-width="1.5" stroke-opacity="0.4" />
+  <rect width="900" height="320" rx="12" fill="url(#cyber-grid)" />
+
+  <!-- Scanning Line -->
+  <line x1="10" y1="5" x2="890" y2="5" stroke="#00D9FF" stroke-width="1.5" opacity="0.3" class="scan-line" />
+
+  <!-- Outer HUD Corner Brackets -->
+  <path d="M 25 45 L 25 25 L 45 25" fill="none" stroke="#00D9FF" stroke-width="2" />
+  <path d="M 875 45 L 875 25 L 855 25" fill="none" stroke="#00D9FF" stroke-width="2" />
+  <path d="M 25 275 L 25 295 L 45 295" fill="none" stroke="#00D9FF" stroke-width="2" />
+  <path d="M 875 275 L 875 295 L 855 295" fill="none" stroke="#00D9FF" stroke-width="2" />
+
+  <!-- Top Header Bar -->
+  <rect x="40" y="35" width="820" height="30" rx="4" fill="#080B1A" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.3" />
+  <circle cx="58" cy="50" r="5" fill="#FFB000" />
+  <circle cx="74" cy="50" r="5" fill="#8B5CF6" />
+  <circle cx="90" cy="50" r="5" fill="#00D9FF" />
+  <text x="110" y="54" class="hud-label">ISHMEET.OS // AI SECURITY OPERATIONS CENTER v4.0</text>
+  <text x="730" y="54" class="hud-label" fill="#A3FF12">SYS_STATUS: ONLINE</text>
+  <circle cx="718" cy="50" r="4" fill="#A3FF12" class="pulsing" />
+
+  <!-- Decorative Circuit Traces -->
+  <path d="M 60 120 H 140 L 160 140 H 220" fill="none" stroke="#8B5CF6" stroke-width="1.5" stroke-opacity="0.4" />
+  <circle cx="220" cy="140" r="3" fill="#8B5CF6" />
+  <path d="M 840 120 H 760 L 740 140 H 680" fill="none" stroke="#00D9FF" stroke-width="1.5" stroke-opacity="0.4" />
+  <circle cx="680" cy="140" r="3" fill="#00D9FF" />
+
+  <!-- Main Identity Banner -->
+  <g transform="translate(50, 95)">
+    <!-- Terminal Box -->
+    <rect x="0" y="0" width="800" height="155" rx="8" fill="#050014" fill-opacity="0.75" stroke="#3B82F6" stroke-width="1" stroke-opacity="0.3" />
+
+    <!-- Terminal Command Line -->
+    <text x="20" y="32" class="terminal-text">&gt; INITIALIZING CORE ARCHITECTURE...</text>
+    <text x="350" y="32" class="hud-label" fill="#8B5CF6">[CLEARANCE: LEVEL 5 - THREAT INTEL]</text>
+
+    <!-- Main Title -->
+    <text x="20" y="80" class="title" fill="url(#text-grad)">ISHMEET KAUR</text>
+
+    <!-- Subtitle / Tagline -->
+    <text x="22" y="108" class="subtitle">AI SECURITY ENGINEER // CYBERSECURITY × AI/ML × CLOUD</text>
+
+    <!-- Dynamic Status Pills -->
+    <g transform="translate(20, 122)">
+      <!-- Pill 1: SOC Automation -->
+      <rect x="0" y="0" width="145" height="24" rx="12" fill="#8B5CF6" fill-opacity="0.15" stroke="#8B5CF6" stroke-width="1" />
+      <text x="12" y="16" class="status-badge" fill="#8B5CF6">🛡️ SOC AUTOMATION</text>
+
+      <!-- Pill 2: Threat Intelligence -->
+      <rect x="155" y="0" width="165" height="24" rx="12" fill="#00D9FF" fill-opacity="0.15" stroke="#00D9FF" stroke-width="1" />
+      <text x="167" y="16" class="status-badge" fill="#00D9FF">⚡ THREAT INTELLIGENCE</text>
+
+      <!-- Pill 3: IEEE Researcher -->
+      <rect x="330" y="0" width="150" height="24" rx="12" fill="#3B82F6" fill-opacity="0.15" stroke="#3B82F6" stroke-width="1" />
+      <text x="342" y="16" class="status-badge" fill="#3B82F6">📄 IEEE RESEARCHER</text>
+
+      <!-- Pill 4: Amazon ML '26 -->
+      <rect x="490" y="0" width="165" height="24" rx="12" fill="#A3FF12" fill-opacity="0.15" stroke="#A3FF12" stroke-width="1" />
+      <text x="502" y="16" class="status-badge" fill="#A3FF12">🚀 AMAZON ML '26 (2.2%)</text>
+    </g>
+  </g>
+
+  <!-- Bottom Command Bar -->
+  <g transform="translate(50, 268)">
+    <rect x="0" y="0" width="800" height="28" rx="4" fill="#080B1A" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.2" />
+    <text x="15" y="18" class="terminal-text" fill="#00D9FF">&gt; CORE OPERATIONAL MOTTO:</text>
+    <text x="210" y="18" class="terminal-text" fill="#FFFFFF">BUILD → BREAK → SECURE → HARDEN → AUTOMATE</text>
+    <text x="680" y="18" class="hud-label" fill="#FFB000">VIT BHOPAL '27</text>
+  </g>
+</svg>

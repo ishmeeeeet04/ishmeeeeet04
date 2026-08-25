@@ -1,281 +1,269 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/main/assets/banner.svg" width="100%"/>
-
-<a href="https://github.com/ishmeeeeet04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=B026FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=70&lines=Breaking+into+systems+so+attackers+can't+%3A%29;Training+models+that+explain+their+own+decisions."/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/VIT_Bhopal-Class_of_2027-B026FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Specialization-Cybersecurity_%26_Digital_Forensics-00F0FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/📍-Bhopal,_India-FF2E97?style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/ishmeet-kaur-ba2446287/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
-<a href="mailto:ishiikaur004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97" /></a>
-<a href="https://github.com/ishmeeeeet04"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
-<a href="https://leetcode.com/u/Ishmeeeeet/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ishmeeeeet04&color=B026FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117" />
-<img src="https://img.shields.io/github/followers/ishmeeeeet04?color=00F0FF&style=for-the-badge&label=FOLLOWERS&labelColor=0D1117&logo=github" />
-<img src="https://img.shields.io/github/stars/ishmeeeeet04?color=FF2E97&style=for-the-badge&label=STARS&labelColor=0D1117&logo=github" />
-
+  <img src="assets/hero.svg" alt="Ishmeet Kaur - AI Security & SOC Command Center" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B026FF,50:FF2E97,100:00F0FF&height=3&width=100%"/>
+<br />
 
-## ⟡ About Me
-
-<img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/main/assets/terminal-header.svg" width="100%"/>
-
-```yaml
-name       : Ishmeet Kaur
-location   : Bhopal, India 🇮🇳
-university : VIT Bhopal — B.Tech CSE
-track      : Cybersecurity & Digital Forensics
-role       : AI/ML Engineer · Security Researcher
-focus      : Applied ML · AI Security · Full-Stack Product Engineering
-philosophy : "Secure systems aren't built by accident — they're engineered, tested, proven."
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ OPERATOR: ISHMEET KAUR | CLEARANCE: LEVEL 5 (THREAT INTEL & AI SECURITY) | STATUS: OPERATIONAL       ║
+║ SYSTEM: ISHMEET.OS v4.0 | DIRECTIVE: AUTONOMOUS THREAT DETECTION, LLM SECURITY & CLOUD INFRASTRUCTURE ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-- 🛡️ I build systems at the intersection of **AI/ML, security engineering, and full-stack product dev** — from anomaly-based threat detectors to LLM security gateways.
-- 🔬 3× **published IEEE research author** across malware detection, privacy-preserving TinyML, and fault-tolerant biomedical data transmission.
-- 🎖️ Selected for **Amazon ML Summer School 2026**, out of 3,000+ applicants nationwide (~2% selection rate).
-- 🧭 Leading technical content at **IEEE Student Branch, VIT Bhopal** and formerly led events at the **OWASP Student Club**.
-- 🚀 Every project I ship goes through the same lens: *does this hold up under adversarial conditions, not just the demo?*
+---
 
-<table>
-<tr><td>
-
-**🎯 Open To**
-Software Engineer / AI Engineer roles · Security & AppSec internships · Applied ML research collaborations · Open-source contributions in AI security
-
-</td></tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:39FF14,100:B026FF&height=3&width=100%"/>
-
-## ⟡ Tech Arsenal
+## 01 // SYSTEM IDENTITY & OVERVIEW
 
 <div align="center">
-
-**Languages**
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp&theme=dark" />
-
-**Frontend**
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,html,css&theme=dark" />
-
-**Backend & Data**
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,redis,mongodb&theme=dark" />
-
-**Cloud, DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel,git,linux&theme=dark" />
-
+  <img src="assets/system-identity.svg" alt="System Identity Architecture" width="100%" />
 </div>
+
+<br />
+
+> **I architect intelligent security systems at the convergence of Artificial Intelligence, Threat Detection, and Cloud Infrastructure.**
+> 
+> My engineering focus centers on detecting cyber threats in real time, explaining anomaly patterns using XAI, automating SOC workflows using LLMs & RAG, and hardening cloud & AI systems against modern attack vectors. Rather than relying solely on static rule sets, I design hybrid detection pipelines that synthesize statistical machine learning, deep NLP, and real-time threat intelligence feeds.
+
+---
+
+## 02 // THREAT INTELLIGENCE & AUTOMATED SOC PIPELINE
 
 <div align="center">
-
-| AI / ML Focus | Level |
-|---|---|
-| Applied Machine Learning (Random Forest, Isolation Forest, TF-IDF, SHAP) | 🟪🟪🟪🟪⬜ |
-| LLM Systems & RAG (LangChain/LangGraph, ChromaDB, Gemini) | 🟪🟪🟪🟪⬜ |
-| AI Security (prompt-injection detection, LLM security gateways) | 🟪🟪🟪🟪🟪 |
-| Threat Detection (MITRE ATT&CK, anomaly detection, log analysis) | 🟪🟪🟪🟪⬜ |
-| Explainable AI (SHAP-based interpretability) | 🟪🟪🟪⬜⬜ |
-
+  <img src="assets/threat-architecture.svg" alt="Threat Intelligence & Automated SOC Pipeline" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:B026FF,100:00F0FF&height=3&width=100%"/>
+<br />
 
-## ⟡ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎣 Phishing Email Detector
-Full-stack AI-powered cybersecurity tool that detects phishing emails using ML, rule-based heuristics, and real-time URL reputation checks via the VirusTotal API.
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F0FF"/> <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/VirusTotal_API-0D1117?style=flat-square&logo=virustotal&logoColor=39FF14"/>
-
-**[→ View Repo](https://github.com/ishmeeeeet04/phishing-detector)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🕵️ Threat Detection System
-Full-stack cybersecurity app using ML to analyse authentication logs, detect anomalies, assign threat scores, and surface real-time alerts on an interactive dashboard.
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F0FF"/> <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Isolation_Forest-0D1117?style=flat-square&logo=scikitlearn&logoColor=FF2E97"/>
-
-**[→ View Repo](https://github.com/ishmeeeeet04/threat-detection-system)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI-SOC-Analyst
-End-to-end AI security platform that detects, explains, and reports on threats — autonomously. Combines rule-based detection, explainable ML (SHAP), MITRE ATT&CK mapping, and a RAG-grounded LLM incident-reporting pipeline.
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F0FF"/> <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=databricks&logoColor=39FF14"/> <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=B026FF"/>
-
-**[→ View Repo](https://github.com/ishmeeeeet04/ai-soc-analyst)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛰️ SentraGuard <sub>(building now)</sub>
-AI/LLM Security Gateway — detecting and blocking prompt injection and sensitive-data exfiltration attempts against enterprise LLM deployments in real time.
-
-<img src="https://img.shields.io/badge/Status-In_Progress-B026FF?style=flat-square"/> <img src="https://img.shields.io/badge/LLM_Security-0D1117?style=flat-square&logo=openai&logoColor=00F0FF"/>
-
-**[→ Follow along on GitHub](https://github.com/ishmeeeeet04)**
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:00F0FF,100:FF2E97&height=3&width=100%"/>
-
-## ⟡ Research Publications
-
-| Paper | Venue |
-|---|---|
-| A Novel Approach in Malware Detection with Cryptography Based Approach Using Machine Learning | [IEEE Xplore ↗](https://ieeexplore.ieee.org/document/10864038) |
-| Enhanced Consumer Healthcare Data Protection Through AI-Driven TinyML and Privacy-Preserving Techniques | [IEEE Xplore ↗](https://ieeexplore.ieee.org/document/11014071) |
-| Network Coding for Fault-Tolerant Transmission of Biomedical Data | [IEEE Xplore ↗](https://ieeexplore.ieee.org/document/10956196) |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B026FF,50:00F0FF,100:39FF14&height=3&width=100%"/>
-
-## ⟡ Achievements at a Glance
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-🏅 **Amazon ML School**
-<br/><sub>2026 · Top 2% of 3,000+</sub>
-
-</td>
-<td align="center" width="25%">
-
-📄 **Research Papers**
-<br/><sub>3× Published, IEEE Xplore</sub>
-
-</td>
-<td align="center" width="25%">
-
-🛡️ **OWASP Club**
-<br/><sub>Event Lead</sub>
-
-</td>
-<td align="center" width="25%">
-
-⚙️ **IEEE Branch**
-<br/><sub>Content Lead</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-| 🏆 | Achievement |
-|:---:|---|
-| 🥇 | **Amazon ML Summer School 2026** — selected from 3,000+ applicants nationwide (~2% selection rate) |
-| 📄 | **3× Published IEEE Research Papers** — malware detection, privacy-preserving TinyML, biomedical network coding |
-| 🛡️ | **OWASP Student Club, VIT Bhopal** — Event Lead |
-| ⚙️ | **IEEE Student Branch, VIT Bhopal** — Content Lead |
-| 🚀 | **Multiple production-deployed AI/security systems**, benchmark-validated and CI-tested |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:39FF14,100:B026FF&height=3&width=100%"/>
-
-## ⟡ GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishmeeeeet04&theme=react-dark&bg_color=00000000&color=00F0FF&line=B026FF&point=FF2E97&area=true&area_color=B026FF&hide_border=true" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ishmeeeeet04&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=FF2E97&text_color=E6E6E6&ring_color=B026FF" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=ishmeeeeet04&theme=dark&hide_border=true&background=00000000&ring=B026FF&fire=FF2E97&currStreakLabel=00F0FF&sideLabels=E6E6E6&sideNums=E6E6E6&dates=8B8B9A&cache_seconds=1800&r=2" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmeeeeet04&layout=donut&theme=transparent&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=E6E6E6&langs_count=8" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=ishmeeeeet04&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" width="49%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:B026FF,100:FF2E97&height=3&width=100%"/>
-
-## ⟡ 3D Contribution Calendar
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
-
-> ⚠️ Requires the `.github/workflows/3d-contrib.yml` action (included in this package) to be added to your `ishmeeeeet04/ishmeeeeet04` repo — see setup notes below.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B026FF,50:FF2E97,100:00F0FF&height=3&width=100%"/>
-
-## ⟡ Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ishmeeeeet04/ishmeeeeet04/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,50:00F0FF,100:B026FF&height=3&width=100%"/>
-
-## ⟡ Coding Profile
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/Ishmeeeeet?theme=dark&font=Fira%20Code&extra=false&border=true&animation=true" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:B026FF,100:39FF14&height=3&width=100%"/>
-
-## ⟡ Current Focus
-
-```yaml
-building:
-  - SentraGuard — AI / LLM Security Gateway
-  - AI-Powered Autonomous SOC Analyst
-
-learning:
-  - Advanced LLM security & red-teaming techniques
-  - Distributed systems for production ML pipelines
-  - Cloud-native security architecture (AWS)
-
-exploring:
-  - Agentic AI systems (MCP, LangGraph)
-  - Applied research in AI security & explainability
-
-open_to:
-  - Software Engineer / AI Engineer roles
-  - Security / AppSec internships
-  - Research collaborations in AI security
+```
++------------------+     +------------------+     +------------------+     +------------------+
+| 01. INGESTION    | --> | 02. FEATURES     | --> | 03. DETECTION    | --> | 04. MAPPING      |
+| AWS / IAM / Logs |     | TF-IDF / NLTK    |     | Isolation Forest |     | MITRE ATT&CK     |
++------------------+     +------------------+     +------------------+     +------------------+
+                                                                                    |
+                                                                                    v
++------------------+                              +------------------+     +------------------+
+| 06. INCIDENT CLOSED| <-------------------------- | 06. RESPONSE UI  | <-- | 05. LLM / RAG    |
+| Automated Action |                              | React / Flask    |     | Gemini + Chroma  |
++------------------+                              +------------------+     +------------------+
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:39FF14,100:FF2E97&height=3&width=100%"/>
+---
+
+## 03 // TACTICAL SECURITY & ENGINEERING ARSENAL
 
 <div align="center">
+  <img src="assets/skills-matrix.svg" alt="Tactical Security & Engineering Arsenal" width="100%" />
+</div>
 
-### ⟡ Let's Connect
+<br />
 
-<a href="https://www.linkedin.com/in/ishmeet-kaur-ba2446287/"><img src="https://img.shields.io/badge/-Ishmeet_Kaur-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/></a>
-<a href="mailto:ishiikaur004@gmail.com"><img src="https://img.shields.io/badge/-ishiikaur004@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97"/></a>
-<a href="https://github.com/ishmeeeeet04"><img src="https://img.shields.io/badge/-ishmeeeeet04-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
+<details>
+<summary><b>🔍 View Full Arsenal Specifications</b></summary>
 
-<br/><br/>
+<br />
 
-*"Secure systems aren't built by accident — they're engineered, tested, and proven."*
+| Domain | Tactical Technologies & Frameworks |
+| :--- | :--- |
+| **Programming Languages** | Python, C++, SQL, Java, C, JavaScript (ES6+), HTML5, CSS3 |
+| **AI / Machine Learning** | TensorFlow, Scikit-learn, NumPy, Pandas, NLTK, SHAP, ChromaDB, Joblib, TF-IDF |
+| **AI Security & LLMs** | Gemini API, RAG (Retrieval-Augmented Generation), Prompt Engineering, LangChain |
+| **Cybersecurity & SOC** | Kali Linux, VirusTotal API, DVWA, Burp Suite, MITRE ATT&CK Framework |
+| **Backend & Cloud** | FastAPI, Flask REST APIs, MySQL, SQLite, Firebase, AWS Cloud, Render, Vercel |
+| **DevOps & Testing** | Git, GitHub Actions (CI/CD), Postman, Overleaf |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,25:00F0FF,50:B026FF,75:FF2E97,100:0D1117&height=120&section=footer" width="100%"/>
+</details>
 
+---
+
+## 04 // FLAGSHIP MISSIONS & PROJECTS
+
+### 🛡️ FLAGSHIP MISSION 01: AI-Powered Autonomous SOC Analyst
+> **Repository:** [`ishmeeeeet04/ai-soc-analyst`](https://github.com/ishmeeeeet04/ai-soc-analyst) | **Domain:** Cybersecurity ML & RAG
+
+<div align="center">
+  <img src="assets/architecture/ai-soc.svg" alt="AI-Powered Autonomous SOC Analyst Architecture" width="100%" />
+</div>
+
+<br />
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ MISSION LOG: OPERATION // AI-SOC-ANALYST                                                              ║
+║ MISSION DIRECTIVE: BUILD AN AUTONOMOUS THREAT ANALYSIS & INCIDENT TRIAGE ENGINE                       ║
+╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ • Hybrid Detection Engine: Synthesizes rule-based heuristics with Random Forest ML for threat triaging.║
+║ • MITRE ATT&CK Mapping: Automatically maps anomalies to T1110 (Brute Force) & T1078 (Valid Accts).  ║
+║ • Explainable AI (XAI): Integrates SHAP values to explain feature contribution for every alert.       ║
+║ • RAG Knowledge Retrieval: Integrates ChromaDB + Gemini LLM to auto-generate grounded playbooks.      ║
+║ • Operational Impact: Boosted recall from 4.1% (rules-only) to 61.9% (~15x) at 96.6% precision.        ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+### 🎣 FLAGSHIP MISSION 02: AI-Powered Phishing Email Detection System
+> **Repository:** [`ishmeeeeet04/phishing-detector`](https://github.com/ishmeeeeet04/phishing-detector) | **Domain:** Cybersecurity ML & NLP
+
+<div align="center">
+  <img src="assets/architecture/phishing.svg" alt="AI-Powered Phishing Email Detection System Architecture" width="100%" />
+</div>
+
+<br />
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ MISSION LOG: OPERATION // PHISHING-DETECTOR                                                           ║
+║ MISSION DIRECTIVE: 3-LAYER PHISHING DETECTION ENGINE WITH REAL-TIME THREAT SCORING                   ║
+╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ • 3-Layer Detection Engine: Combines Logistic Regression, TF-IDF NLP, and VirusTotal API lookup.     ║
+║ • High Precision Corpus: Achieved 94%+ detection accuracy on real-world email datasets.               ║
+║ • Threat Scoring: Computes a weighted 0-100 risk score with explainable indicator highlights.         ║
+║ • Full-Stack API: Served via rate-limited Flask REST API with dark-mode SVG risk visualization dashboard.║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+### 📊 FLAGSHIP MISSION 03: AI-Powered Threat Detection & Log Analysis System
+> **Repository:** [`ishmeeeeet04/threat-detection-system`](https://github.com/ishmeeeeet04/threat-detection-system) | **Domain:** Anomaly Detection & Cloud Security
+
+<div align="center">
+  <img src="assets/architecture/threat-detection.svg" alt="AI-Powered Threat Detection Architecture" width="100%" />
+</div>
+
+<br />
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ MISSION LOG: OPERATION // LOG-THREAT-DETECTION                                                        ║
+║ MISSION DIRECTIVE: UNSUPERVISED ANOMALY DETECTION PIPELINE FOR AUDIT & SYSTEM LOGS                  ║
+╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ • Unsupervised ML Pipeline: Isolation Forest + contextual rules evaluating 5 engineered log features. ║
+║ • Benchmark Performance: Reached 87% precision and 100% recall on NSL-KDD security benchmark dataset.║
+║ • Production API: CORS-hardened 8-endpoint Flask REST API verified with 13 automated unit tests.      ║
+║ • CI/CD Deployment: Integrated GitHub Actions pipeline deployed live on Render for 1,000+ scored logs. ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 05 // IEEE RESEARCH ARCHIVE & PUBLICATIONS
+
+<div align="center">
+  <img src="assets/research-archive.svg" alt="IEEE Research Archive & Publications" width="100%" />
+</div>
+
+<br />
+
+```
+📄 IEEE PUBLICATION 01
+┌───────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ TITLE  : A Novel Approach in Malware Detection with Cryptography Based Approach Using Machine Learning│
+│ DOMAIN : Malware Detection // Applied Cryptography // Machine Learning                                │
+│ STATUS : Published in IEEE Proceedings                                                                │
+└───────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+📄 IEEE PUBLICATION 02
+┌───────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ TITLE  : Enhanced Consumer Healthcare Data Protection Through AI-Driven TinyML & Privacy-Preserving... │
+│ DOMAIN : TinyML // Healthcare Security // Privacy-Preserving Computation                              │
+│ STATUS : Published in IEEE Proceedings                                                                │
+└───────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+📄 IEEE PUBLICATION 03
+┌───────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ TITLE  : Network Coding for Fault-Tolerant Transmission of Biomedical Data                            │
+│ DOMAIN : Network Reliability // Fault-Tolerant Protocols // Biomedical Systems                       │
+│ STATUS : Published in IEEE Proceedings                                                                │
+└───────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 06 // ACHIEVEMENT MATRIX & COMMUNITY LEADERSHIP
+
+<div align="center">
+  <img src="assets/achievement-matrix.svg" alt="Achievement Matrix & Community Leadership" width="100%" />
+</div>
+
+<br />
+
+- 🚀 **Amazon ML Summer School (2026)**: Selected in top **2.2%** of applicants nationwide for Amazon's flagship Machine Learning program.
+- 📜 **Google IT Support Professional Certification (2026)**: Comprehensive certification in networking, systems security, system administration, and technical troubleshooting.
+- 👑 **Content Lead @ IEEE Student Branch (VIT Bhopal)**: Authored technical reports & newsletters on emerging cybersecurity trends; increased branch visibility by **40%**.
+- 🛡️ **Event Lead @ OWASP Student Club (VIT Bhopal)**: Directed 8+ hands-on cybersecurity and AI/ML workshops, boosting event turnout by **35%**.
+
+---
+
+## 07 // GITHUB TELEMETRY & METRICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishmeeeeet04&show_icons=true&theme=synthwave&hide_border=true&bg_color=050014&title_color=00D9FF&icon_color=8B5CF6&text_color=E2E8F0" alt="Ishmeet's GitHub Stats" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmeeeeet04&layout=compact&theme=synthwave&hide_border=true&bg_color=050014&title_color=00D9FF&text_color=E2E8F0" alt="Ishmeet's Top Languages" height="165" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishmeeeeet04&theme=synthwave&hide_border=true&background=050014&stroke=8B5CF6&ring=00D9FF&fire=A3FF12&currStreakNum=00D9FF" alt="Ishmeet's GitHub Streak" height="165" />
+</div>
+
+---
+
+## 08 // GITHUB ACTIVITY MATRIX
+
+### 3D CONTRIBUTION MATRIX
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Ishmeet's 3D Contribution Matrix" width="100%" />
+</div>
+
+<br />
+
+### CONTRIBUTION TRAJECTORY
+<div align="center">
+  <img src="github-snake/github-contribution-grid-snake-dark.svg" alt="Ishmeet's Contribution Snake" width="100%" />
+</div>
+
+---
+
+## 09 // CURRENT OPERATIONS & ACTIVE ROADMAP
+
+```
+[+] ACTIVE FOCUS 1: Autonomous SOC Agents & LangGraph Incident Orchestration
+[+] ACTIVE FOCUS 2: Prompt Injection Defense & LLM Security Gateways
+[+] ACTIVE FOCUS 3: AWS Cloud Security Architecture & Infrastructure-as-Code
+[+] ACTIVE FOCUS 4: Advanced Data Structures & Algorithms in Java / C++
+```
+
+---
+
+## 10 // ENGINEERING PHILOSOPHY & TERMINAL FOOTER
+
+```
+"I do not merely build systems to operate in ideal environments.
+ I study attack surfaces, simulate failure modes, and build resilient defense architectures."
+```
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/ishmeeeeet04">
+    <img src="https://img.shields.io/badge/GitHub-ishmeeeeet04-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ishmeet-kaur">
+    <img src="https://img.shields.io/badge/LinkedIn-ishmeet--kaur-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Ishmeeeeet/">
+    <img src="https://img.shields.io/badge/LeetCode-Ishmeeeeet-A3FF12?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="assets/footer.svg" alt="Terminal Footer" width="100%" />
 </div>

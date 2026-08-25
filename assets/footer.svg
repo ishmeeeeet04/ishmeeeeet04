@@ -1,13 +1,32 @@
-<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%" height="100%">
   <defs>
-    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0D0221"/>
-      <stop offset="50%" stop-color="#6D28D9"/>
-      <stop offset="100%" stop-color="#C026D3"/>
+    <linearGradient id="foot-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050014" />
+      <stop offset="100%" stop-color="#080B1A" />
     </linearGradient>
   </defs>
-  <rect width="900" height="120" fill="url(#fbg)"/>
-  <text x="450" y="65" font-family="JetBrains Mono, monospace" font-size="16" fill="#F5F3FF" text-anchor="middle">
-    <tspan fill="#C084FC"></tspan>"Thanks for visiting — let's build something secure."
-  </text>
+
+  <style>
+    .foot-text { font-family: 'Cascadia Code', 'Consolas', monospace; font-size: 12px; fill: #00D9FF; }
+    .foot-sub { font-family: 'Segoe UI', sans-serif; font-size: 11px; fill: #CBD5E1; }
+    .foot-badge { font-family: 'Segoe UI', sans-serif; font-size: 10px; font-weight: 700; fill: #A3FF12; }
+  </style>
+
+  <rect width="900" height="120" rx="8" fill="url(#foot-bg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.3" />
+
+  <!-- Top Line -->
+  <line x1="20" y1="20" x2="880" y2="20" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.3" stroke-dasharray="4" />
+
+  <g transform="translate(30, 45)">
+    <text x="0" y="0" class="foot-text">&gt; ISHMEET.OS // TERMINAL DISPATCH COMPLETED</text>
+    <text x="0" y="22" class="foot-sub">Designed &amp; Architected for AI Security Operations &amp; Threat Intelligence Research.</text>
+    <text x="0" y="42" class="foot-sub" fill="#8B5CF6">STATUS: ALL SECURITY SYSTEMS ONLINE &amp; MONITORING</text>
+  </g>
+
+  <!-- Right Pill -->
+  <g transform="translate(680, 45)">
+    <rect x="0" y="-12" width="180" height="28" rx="14" fill="#A3FF12" fill-opacity="0.1" stroke="#A3FF12" stroke-width="1" />
+    <text x="18" y="6" class="foot-badge">⚡ SECURED BY ISHMEET</text>
+    <text x="5" y="40" font-family="monospace" font-size="10" fill="#00D9FF">VIT BHOPAL // 2027</text>
+  </g>
 </svg>

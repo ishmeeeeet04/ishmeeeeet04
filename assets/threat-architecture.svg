@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="100%" height="100%">
+  <defs>
+    <linearGradient id="pipe-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050014" />
+      <stop offset="100%" stop-color="#090B1E" />
+    </linearGradient>
+
+    <linearGradient id="node-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#00D9FF" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title { font-family: 'Segoe UI', sans-serif; font-size: 16px; font-weight: 800; fill: #00D9FF; letter-spacing: 2px; }
+    .node-title { font-family: 'Cascadia Code', 'Consolas', monospace; font-size: 11px; fill: #A3FF12; font-weight: 700; letter-spacing: 1px; }
+    .node-desc { font-family: 'Segoe UI', sans-serif; font-size: 10px; fill: #CBD5E1; }
+    .arrow-text { font-family: 'Cascadia Code', monospace; font-size: 10px; fill: #00D9FF; }
+  </style>
+
+  <!-- Card Background -->
+  <rect width="900" height="260" rx="10" fill="url(#pipe-bg)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.3" />
+
+  <!-- Header -->
+  <path d="M 0 10 Q 0 0 10 0 L 890 0 Q 900 0 900 10 L 900 40 L 0 40 Z" fill="#080B1A" stroke="#3B82F6" stroke-width="1" stroke-opacity="0.2" />
+  <text x="25" y="26" class="title">02 // THREAT INTELLIGENCE &amp; AUTOMATED SOC PIPELINE</text>
+
+  <!-- Pipeline Flow Nodes -->
+  <!-- Node 1: Log Ingestion -->
+  <g transform="translate(30, 65)">
+    <rect width="125" height="155" rx="8" fill="#080B1A" stroke="#3B82F6" stroke-width="1.5" />
+    <rect width="125" height="28" rx="8" fill="#3B82F6" fill-opacity="0.2" />
+    <text x="10" y="18" class="node-title">01. INGESTION</text>
+    <text x="10" y="48" class="node-desc" font-weight="700" fill="#00D9FF">SOURCES:</text>
+    <text x="10" y="65" class="node-desc">• AWS CloudTrail</text>
+    <text x="10" y="80" class="node-desc">• IAM Access Logs</text>
+    <text x="10" y="95" class="node-desc">• NSL-KDD Logs</text>
+    <text x="10" y="110" class="node-desc">• Email Headers</text>
+    <text x="10" y="130" class="node-desc" fill="#A3FF12">Raw Log Parsing</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <path d="M 160 142 H 180" stroke="#00D9FF" stroke-width="2" marker-end="url(#arrow)" />
+  <polygon points="180,138 188,142 180,146" fill="#00D9FF" />
+
+  <!-- Node 2: Feature Engineering -->
+  <g transform="translate(190, 65)">
+    <rect width="125" height="155" rx="8" fill="#080B1A" stroke="#8B5CF6" stroke-width="1.5" />
+    <rect width="125" height="28" rx="8" fill="#8B5CF6" fill-opacity="0.2" />
+    <text x="10" y="18" class="node-title">02. FEATURES</text>
+    <text x="10" y="48" class="node-desc" font-weight="700" fill="#8B5CF6">EXTRACTION:</text>
+    <text x="10" y="65" class="node-desc">• TF-IDF Vectorizer</text>
+    <text x="10" y="80" class="node-desc">• NLTK Tokenizer</text>
+    <text x="10" y="95" class="node-desc">• Access Freq Ratio</text>
+    <text x="10" y="110" class="node-desc">• IP &amp; Payload Risk</text>
+    <text x="10" y="130" class="node-desc" fill="#A3FF12">Structured Data</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <polygon points="320,138 328,142 320,146" fill="#00D9FF" />
+  <line x1="318" y1="142" x2="328" y2="142" stroke="#00D9FF" stroke-width="2" />
+
+  <!-- Node 3: Hybrid Detection -->
+  <g transform="translate(330, 65)">
+    <rect width="135" height="155" rx="8" fill="#080B1A" stroke="#A3FF12" stroke-width="1.5" />
+    <rect width="135" height="28" rx="8" fill="#A3FF12" fill-opacity="0.2" />
+    <text x="10" y="18" class="node-title">03. DETECTION</text>
+    <text x="10" y="48" class="node-desc" font-weight="700" fill="#A3FF12">HYBRID ENGINE:</text>
+    <text x="10" y="65" class="node-desc">• Isolation Forest</text>
+    <text x="10" y="80" class="node-desc">• Random Forest</text>
+    <text x="10" y="95" class="node-desc">• Heuristic Rules</text>
+    <text x="10" y="110" class="node-desc">• VirusTotal API</text>
+    <text x="10" y="130" class="node-desc" fill="#A3FF12">Score: 94%+ Acc</text>
+  </g>
+
+  <!-- Arrow 3 -->
+  <polygon points="470,138 478,142 470,146" fill="#00D9FF" />
+  <line x1="468" y1="142" x2="478" y2="142" stroke="#00D9FF" stroke-width="2" />
+
+  <!-- Node 4: MITRE ATT&CK & SHAP -->
+  <g transform="translate(480, 65)">
+    <rect width="130" height="155" rx="8" fill="#080B1A" stroke="#FFB000" stroke-width="1.5" />
+    <rect width="130" height="28" rx="8" fill="#FFB000" fill-opacity="0.2" />
+    <text x="10" y="18" class="node-title">04. MAPPING</text>
+    <text x="10" y="48" class="node-desc" font-weight="700" fill="#FFB000">TAXONOMY:</text>
+    <text x="10" y="65" class="node-desc">• MITRE T1110</text>
+    <text x="10" y="80" class="node-desc">• MITRE T1078</text>
+    <text x="10" y="95" class="node-desc">• SHAP Values</text>
+    <text x="10" y="110" class="node-desc">• Attack Tactics</text>
+    <text x="10" y="130" class="node-desc" fill="#A3FF12">XAI Explanation</text>
+  </g>
+
+  <!-- Arrow 4 -->
+  <polygon points="615,138 623,142 615,146" fill="#00D9FF" />
+  <line x1="613" y1="142" x2="623" y2="142" stroke="#00D9FF" stroke-width="2" />
+
+  <!-- Node 5: LLM RAG Reasoning -->
+  <g transform="translate(625, 65)">
+    <rect width="125" height="155" rx="8" fill="#080B1A" stroke="#00D9FF" stroke-width="1.5" />
+    <rect width="125" height="28" rx="8" fill="#00D9FF" fill-opacity="0.2" />
+    <text x="10" y="18" class="node-title">05. LLM / RAG</text>
+    <text x="10" y="48" class="node-desc" font-weight="700" fill="#00D9FF">REASONING:</text>
+    <text x="10" y="65" class="node-desc">• ChromaDB RAG</text>
+    <text x="10" y="80" class="node-desc">• Gemini AI API</text>
+    <text x="10" y="95" class="node-desc">• LangChain Ops</text>
+    <text x="10" y="110" class="node-desc">• Playbook Vector</text>
+    <text x="10" y="130" class="node-desc" fill="#A3FF12">Contextual Summary</text>
+  </g>
+
+  <!-- Arrow 5 -->
+  <polygon points="755,138 763,142 755,146" fill="#00D9FF" />
+  <line x1="753" y1="142" x2="763" y2="142" stroke="#00D9FF" stroke-width="2" />
+
+  <!-- Node 6: Response -->
+  <g transform="translate(765, 65)">
+    <rect width="105" height="155" rx="8" fill="#080B1A" stroke="#3B82F6" stroke-width="1.5" />
+    <rect width="105" height="28" rx="8" fill="#3B82F6" fill-opacity="0.2" />
+    <text x="10" y="18" class="node-title">06. RESPONSE</text>
+    <text x="10" y="48" class="node-desc" font-weight="700" fill="#3B82F6">ACTION:</text>
+    <text x="10" y="65" class="node-desc">• REST Alert</text>
+    <text x="10" y="80" class="node-desc">• React Dashboard</text>
+    <text x="10" y="95" class="node-desc">• Severity Score</text>
+    <text x="10" y="110" class="node-desc">• SOC Playbook</text>
+    <text x="10" y="130" class="node-desc" fill="#A3FF12">Incident Closed</text>
+  </g>
+</svg>
