@@ -135,7 +135,7 @@ AI/LLM Security Gateway — detecting and blocking prompt injection and sensitiv
 
 <img src="https://img.shields.io/badge/Status-In_Progress-B026FF?style=flat-square"/> <img src="https://img.shields.io/badge/LLM_Security-0D1117?style=flat-square&logo=openai&logoColor=00F0FF"/>
 
-**[→ Follow along on GitHub](https://github.com/ishmeeeeet04)**
+**[→ View Repo](https://github.com/ishmeeeeet04/SentraGuard)**
 
 </td>
 </tr>
